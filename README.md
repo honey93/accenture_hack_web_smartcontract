@@ -1,6 +1,6 @@
 # DApp build over Nebulas Platform
 
-> Distributed stories
+> Decentralized Petition System
 
 ## Build Setup
 
@@ -13,6 +13,6 @@ $ npm run dev
 
 ```
 
-To setup the Nebulas browser Extension and creating the account, read [About App] (http://distributedstoriesupdated.s3-website-eu-west-1.amazonaws.com/about)
+To setup the Nebulas browser Extension and creating the account, read [About App] (http://accenturehack.s3-website-eu-west-1.amazonaws.com/about)
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
